@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\C#\DataTypesExample\IfElseifElse\Loop\obj\Debug\net8.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\DataTypesExample\IfElseifElse\Loop\obj\Debug\net8.0\Loop.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\DataTypesExample\IfElseifElse\Loop\obj\Debug\net8.0\Loop.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\DataTypesExample\IfElseifElse\Loop\obj\Debug\net8.0\Loop.csproj.CoreCompileInputs.cache

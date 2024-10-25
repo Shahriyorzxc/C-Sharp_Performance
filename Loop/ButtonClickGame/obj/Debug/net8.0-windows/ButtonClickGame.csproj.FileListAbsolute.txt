@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\C#\Loop\ButtonClickGame\obj\Debug\net8.0-windows\ButtonClickGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\Loop\ButtonClickGame\obj\Debug\net8.0-windows\ButtonClickGame.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\Loop\ButtonClickGame\obj\Debug\net8.0-windows\ButtonClickGame.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\Loop\ButtonClickGame\obj\Debug\net8.0-windows\ButtonClickGame.csproj.CoreCompileInputs.cache

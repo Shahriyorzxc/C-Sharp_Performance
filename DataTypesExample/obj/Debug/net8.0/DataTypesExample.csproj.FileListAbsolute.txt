@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\DataTypesExample\bin\Debug\net8.0\DataTypesExample.exe
+C:\Users\user\Desktop\C#\DataTypesExample\bin\Debug\net8.0\DataTypesExample.deps.json
+C:\Users\user\Desktop\C#\DataTypesExample\bin\Debug\net8.0\DataTypesExample.runtimeconfig.json
+C:\Users\user\Desktop\C#\DataTypesExample\bin\Debug\net8.0\DataTypesExample.dll
+C:\Users\user\Desktop\C#\DataTypesExample\bin\Debug\net8.0\DataTypesExample.pdb
+C:\Users\user\Desktop\C#\DataTypesExample\obj\Debug\net8.0\DataTypesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\DataTypesExample\obj\Debug\net8.0\DataTypesExample.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\DataTypesExample\obj\Debug\net8.0\DataTypesExample.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\DataTypesExample\obj\Debug\net8.0\DataTypesExample.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\DataTypesExample\obj\Debug\net8.0\DataTypesExample.dll
+C:\Users\user\Desktop\C#\DataTypesExample\obj\Debug\net8.0\refint\DataTypesExample.dll
+C:\Users\user\Desktop\C#\DataTypesExample\obj\Debug\net8.0\DataTypesExample.pdb
+C:\Users\user\Desktop\C#\DataTypesExample\obj\Debug\net8.0\DataTypesExample.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\DataTypesExample\obj\Debug\net8.0\ref\DataTypesExample.dll
